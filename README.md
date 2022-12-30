@@ -1,9 +1,9 @@
-# Colorsole (Colored Console Log)
+# Coloredsole (Colored Console Log)
 
 ### Usage
 
 ```
-import { colorsole } from 'colorsole';
+import { coloredsole } from 'coloredsole';
 
 - Green 
 log.success('Congratulations!'); 
