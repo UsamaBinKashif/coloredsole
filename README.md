@@ -3,7 +3,7 @@
 ### Usage
 
 ```
-import { coloredsole } from 'coloredsole';
+import { log } from 'coloredsole';
 
 - Green 
 log.success('Congratulations!'); 
